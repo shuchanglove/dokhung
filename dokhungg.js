@@ -1,5 +1,5 @@
 // test ffapple.com
-var domains = 
+var domains = {
     "ocsp.apple.com":1,
     "gdmf.apple.com":1,
     "mesu.apple.com":1,
