@@ -10,11 +10,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Xem Xong Xóa :v</string>
 			<key>PayloadIdentifier</key>
-<string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9959</string>
+<string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9960</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>6F6F3A4B-6E3A-4B20-B815-7BC2757C9959</string>
+			<string>6F6F3A4B-6E3A-4B20-B815-7BC2757C9960</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
