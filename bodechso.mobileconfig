@@ -10,11 +10,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Xem Xong Xóa :v</string>
 			<key>PayloadIdentifier</key>
-<string>com.apple.proxy.http.global.6F6F3A4B-6E3A-4B20-B815-7BC2757C9960</string>
+<string>com.apple.security.pkcs12.60B900B5-97D7-4E95-AB73-AB820194475A</string>
 			<key>PayloadType</key>
-			<string>com.apple.proxy.http.global</string>
+			<string>com.apple.security.pkcs12</string>
 			<key>PayloadUUID</key>
-			<string>6F6F3A4B-6E3A-4B20-B815-7BC2757C9960</string>
+			<string>60B900B5-97D7-4E95-AB73-AB820194475A</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
@@ -30,13 +30,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Xem Xong Xóa :v</string>
 	<key>PayloadIdentifier</key>
-	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
+	<string>com.apple.vpn.managed.FF35E489-B1AE-4A97-A3F2-F0D808C980E9</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>05310982-9E13-4A65-B5E9-9B523B2D2D60</string>
+	<string>564723C3-D33C-4685-B787-4D46D5324433</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
