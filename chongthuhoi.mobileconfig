@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>LockScreenFootnote</key>
-			<string>Mạnh's device 😍</string>
+			<string> </string>
 			<key>PayloadDisplayName</key>
 			<string>Lock Screen Settings</string>
 			<key>PayloadIdentifier</key>
