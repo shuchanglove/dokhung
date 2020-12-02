@@ -43,14 +43,13 @@
 	</array>
 	<key>PayloadDescription</key>
 	<string>- Chặn cập nhật quảng cáo cá nhân.
-- Chặn thu hồi chứng chỉ.
 	</string>
 	<key>PayloadDisplayName</key>
 	<string>PACprofile</string>
 	<key>PayloadIdentifier</key>
 	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
 	<key>PayloadOrganization</key>
-	<string>ManhDuong</string>
+	<string>shuchanglove</string>
 	<key>PayloadRebootSuggested</key>
 	<true/>
 	<key>PayloadRemovalDisallowed</key>
@@ -64,9 +63,9 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>"You are configuring to block ads and certificate revocation</string>
+		<string>"You are configuring to block ads</string>
 		<key>vi</key>
-		<string>"Bạn đang cài đặt cấu hình chặn quảng cáo và thu hồi chứng chỉ</string>
+		<string>"Bạn đang cài đặt cấu hình chặn quảng cáo</string>
 	</dict>
 	<key>RemovalDate</key>
 	<date>2222-01-01T00:00:00Z</date>
