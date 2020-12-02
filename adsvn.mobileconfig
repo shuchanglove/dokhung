@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/shuchanglove/dokhung/master/adsvn.js</string>
+			<string>https://raw.githubusercontent.com/shuchanglove/dokhung/master/adsvnios.js</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
