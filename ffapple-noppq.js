@@ -24,7 +24,7 @@ if(n(r=ids(WHITE_SUBDOMAINS))){return WHITE}
 if(n(r=is(WHITE_URLS))){return WHITE}
 if(n(r=ii(WHITE_NETWORKS,WHITE_MASKS))){return WHITE}
 
-var BLACK_DOMAINS=["ocsp.apple.com","ocsp-reno01.apple.com","ocsp-reno02.apple.com","ocsp.int-x3.letsencrypt.org","world-gen.g.aaplimg.com","crl.apple.com","crl.entrust.net","crl3.digicert.com","crl4.digicert.com","ocsp.digicert.com","ocsp2.digicert.com","ocsp.entrust.net","ocsp.verisign.net","mesu.apple.com","ocsp.usertrust.com"];
+var BLACK_DOMAINS=["gdmf.apple.com","mesu.apple.com"];
 var BLACK_SUBDOMAINS=[];
 var BLACK_URLS=["http://*.admicro.vn/*","http://*.cheap-ads.net/*"];
 var BLACK_NETWORKS=[];
